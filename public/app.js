@@ -20,7 +20,6 @@ $("#rangoPrecio").ionRangeSlider({
 })
 
 
-
 $(document).ready(function(){
  cargarCiudad()
   x =0;
@@ -41,8 +40,6 @@ function setSearch() {
     $('#personalizada').toggleClass('invisible')
   })
 }
-
-
 
 
 function  cargarCiudad(){
